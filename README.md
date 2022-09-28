@@ -323,7 +323,10 @@ Go back in **Test in Web Chat** on Azure Portal and chat with your bot.
 
 ![Screenshot of test in portal](media/test-in-web-chat.PNG)
 ![Home _ Future Ready Talent - Profile 1 - Microsoft​ Edge 28-09-2022 14_56_41](https://user-images.githubusercontent.com/112756262/192743479-bdc45078-386f-407f-bb48-631758affd86.png)
+  project output.
+  ![Home _ Future Ready Talent - Profile 1 - Microsoft​ Edge 28-09-2022 14_58_05](https://user-images.githubusercontent.com/112756262/192743771-ff42b9a9-8b49-4d23-8902-1f6cea28666b.png)
+  ![Home _ Future Ready Talent - Profile 1 - Microsoft​ Edge 28-09-2022 14_56_39](https://user-images.githubusercontent.com/112756262/192743970-77502c95-ddcd-4013-9481-ff765d365ce9.png)
 
 
-## Clean up resources
+## Clean up resources![Uploading Home _ Future Ready Talent - Profile 1 - Microsoft​ Edge 28-09-2022 14_56_39.png…]()
 Finally, If you don't expect to need these resources in the future, you can delete them by deleting the resource group. To do so, select the resource group for this workshop, select Delete, then confirm the name of the resource group to delete.
